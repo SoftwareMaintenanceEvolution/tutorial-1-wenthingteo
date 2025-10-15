@@ -7,5 +7,5 @@ I [expect to learn a lot about modern software maintenance practices and how to 
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [(https://github.com/wenthingteo)]
+You can view my personalized GitHub profile: https://github.com/wenthingteo
 
